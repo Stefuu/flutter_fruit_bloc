@@ -3,7 +3,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_fruit_bloc/bloc/fruit_bloc.dart';
 import 'package:flutter_fruit_bloc/bloc/fruit_events.dart';
 import 'package:flutter_fruit_bloc/bloc/fruit_states.dart';
-import 'package:flutter_fruit_bloc/components/fruit_item.dart';
 import 'package:flutter_fruit_bloc/components/fruit_list.dart';
 import 'package:flutter_fruit_bloc/models/fruit.dart';
 import '../../bloc/fruit_bloc.dart';
